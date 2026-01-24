@@ -61,15 +61,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1805&layout=compact&theme=great-gatsby&hide_border=true&bg_color=000000)
 
 </div>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mihir1805/mihir1805/output/github-contribution-grid-snake.svg" />
- 
-  <br/><br/><br/>
-</div>
 <hr/>
 
 
