@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on my very own **Virtual Assistant**
  
- 🌱 I’m currently learning **Python, Mernstack, Machine Learning, Data Analytics**
+ 🌱 I’m currently learning **Python, Data Engineering , Machine Learning, Data Analytics**
 
 ⚡ Fun fact : **The first computer bug was literally a bug—a moth found in a Harvard Mark II computer in 1947!**
 
